@@ -1,4 +1,4 @@
 # CS4220
-MOA Prediction \n
-Group D \n
+MOA Prediction <br />
+Group D <br />
 Daniel Andy Alicia Wei Yi
